@@ -34,7 +34,7 @@ dependencies:
   - textblob=0.15.3
   - wheel=0.33.4
   - pip:
-    - xz==5.2.4 to xz
+    - xz==5.2.4
     - libffi==3.2.1
     - ipython_genutils==0.2.0
     - libsodium==1.0.16
@@ -49,7 +49,6 @@ dependencies:
     - readline==7.0
     - wcwidth==0.1.7
     - tk==8.6.8
-    - python==3.6.8
     - numpy==1.16.4
     - numpy-base==1.16.4
     - cycler==0.10.0
